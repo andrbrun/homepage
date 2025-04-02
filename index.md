@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Andreas Brun
 ---
 
-# Personal page of Andreas Brun
+# Homepage
