@@ -1,5 +1,4 @@
 ---
-title: Andreas Brun
+title: Hello!
 ---
 
-# Homepage
