@@ -1,7 +1,7 @@
 ---
-title: "FIRST-POST"
+title: "Hey I have a homepage, what now?"
 date: 2025-04-02
 ---
-# First blog post
+# Work in progress
 
-- Post new post is nice post
+I am currently trying to find a way to blast out all my stuff in my head. Maybe this will be it.
